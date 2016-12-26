@@ -1,6 +1,6 @@
 # SwipeBackHelper
-#修改自https://github.com/Jude95/SwipeBackHelper
-#添加类似iOS，打开和关闭Activity时底层的Activity也有跟随的动画效果
+####修改自https://github.com/Jude95/SwipeBackHelper
+####添加类似iOS，打开和关闭Activity时底层的Activity也有跟随的动画效果
 
 * 按下返回键时
 ```Java
